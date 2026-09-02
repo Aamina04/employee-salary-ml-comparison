@@ -18,8 +18,6 @@ Years of Experience, comparing three regression approaches to find the best fit.
 | Random Forest (depth=6) | 8,907.61  | 12,217.76 | 0.9377 |
 
 ## Key Finding
-## Key Finding
-
 Random Forest (max_depth=6) was selected as the best-performing model, but 
 the selection process is arguably more valuable than the winning number itself.
 
